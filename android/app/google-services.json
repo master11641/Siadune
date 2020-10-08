@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038260478743",
+    "firebase_url": "https://kiancms-1510926969439.firebaseio.com",
+    "project_id": "kiancms-1510926969439",
+    "storage_bucket": "kiancms-1510926969439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038260478743:android:ba7d701ef4b2cebb438d52",
+        "android_client_info": {
+          "package_name": "com.tagweb.siadune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038260478743-fa4tecrsurs19g5ha06mp4b7e1v78gjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqIAvbnd5smC4RWe2GpcFb2botAZkWvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038260478743-fa4tecrsurs19g5ha06mp4b7e1v78gjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
